@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const validator = require('validator');
 require('dotenv').config({ path: './config/dev.env' });
-const bcrypt = require('bcrypt')
+const bcrypt = require('bcryptjs')
 const jwt = require('jsonwebtoken')
 const Task = require('./task.js')
 
