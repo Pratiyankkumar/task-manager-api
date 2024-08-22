@@ -160,7 +160,7 @@ The API returns appropriate HTTP status codes and error messages for invalid req
 - **JWT**: JSON Web Tokens for user authentication.
 - **Multer**: Middleware for handling file uploads.
 - **Sharp**: Image processing library.
-- **SendGrid**: Email sending service.
+- **Nodemailer**: Email sending service.
 
 ## Important Note
 Please wait for 60-120 seconds for the response of my API, beacuse i dont have money to deploy on a paid service
